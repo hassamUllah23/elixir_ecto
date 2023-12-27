@@ -1,0 +1,1 @@
+alias ElixirEcto.{User, Email}
