@@ -24,7 +24,9 @@ defmodule ElixirEcto.MixProject do
   defp deps do
     [
       {:ecto_sql, "~> 3.10"},
-      {:postgrex, ">= 0.0.0"}
+      {:postgrex, ">= 0.0.0"},
+      {:plug_cowboy, "~> 2.6"},
+      {:jason, "~> 1.4"}
       # {:dep_from_hexpm, "~> 0.3.0"},
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
     ]
@@ -33,6 +35,7 @@ defmodule ElixirEcto.MixProject do
   defp aliases do
     [
       db: ["ecto.drop", "ecto.create", "ecto.migrate --log-migrations-sql"]
+      # test: ["test --no-compile --color --cover"]
     ]
   end
 end

@@ -21,6 +21,5 @@ defmodule ElixirEcto.Email do
     |> validate_inclusion(:text, ["hello"])
     |> validate_length(:email, min: 6, max: 30)
     |> validate_inclusion(:email, ["@", ".com"])
-
   end
 end

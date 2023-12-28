@@ -1,6 +1,6 @@
 defmodule ElixirEcto.UserQueries do
   import Ecto.Query
-  # use ElixirEcto.Schema
+  import ElixirEcto.User
   alias ElixirEcto.{Repo, User, UserStruct}
   require Logger
 
@@ -14,12 +14,25 @@ defmodule ElixirEcto.UserQueries do
 
   """
   def list_users do
-    query =
-      from(u in User, select: u, preload: [:emails])
+    query = from(u in User, select: u)
 
     # |> with_undeleted
 
-    Repo.all(query)
+    users = Repo.all(query)
+    # users = Repo.all(from u in User, select: u)
+    # Logger.info("#{inspect(users)}")
+    users
+  end
+
+  def get_user(id) do
+    # query = from(u in User, select: u, where: u.id == id)
+
+    # |> with_undeleted
+
+    # users = Repo.(query)
+    # users = Repo.all(from u in User, select: u)
+    # Logger.info("#{inspect(users)}")
+    Repo.get(User, id)
   end
 
   @doc """
@@ -38,6 +51,20 @@ defmodule ElixirEcto.UserQueries do
     # user = change_user(userStruct, attrs)
     # Repo.insert(User.changeset(userStruct))
     Repo.insert(userStruct)
+  end
+
+  def update_user(id, data) do
+    oldRecord = Repo.get_by(User, id: id)
+    Logger.info("OLD RECORD FOUND ----------- #{inspect(oldRecord)}")
+    Repo.update(User.common_changeset(oldRecord, data))
+  end
+
+  def delete_user(id) do
+    # user = change_user(userStruct, attrs)
+    # Repo.insert(User.changeset(userStruct))
+    oldRecord = Repo.get_by(User, id: id)
+    Repo.delete(User.delete_changeset(oldRecord, %{}))
+    # Repo.delete(userStruct)
   end
 
   @doc """

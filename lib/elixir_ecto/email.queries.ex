@@ -49,8 +49,8 @@ defmodule ElixirEcto.EmailQueries do
       %Todo{...}
 
   """
-#   def change_email(%EmailStruct{} = email, attrs \\ %{}) do
-#     Logger.info("#{inspect(email)}")
-#     Email.changeset(email, attrs)
-#   end
+  #   def change_email(%EmailStruct{} = email, attrs \\ %{}) do
+  #     Logger.info("#{inspect(email)}")
+  #     Email.changeset(email, attrs)
+  #   end
 end

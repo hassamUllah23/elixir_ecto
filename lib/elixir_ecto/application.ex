@@ -11,7 +11,11 @@ defmodule ElixirEcto.Application do
       # Starts a worker by calling: ElixirEcto.Worker.start_link(arg)
       # {ElixirEcto.Worker, arg}
 
-      ElixirEcto.Repo
+      ElixirEcto.Repo,
+      {
+        Plug.Cowboy,
+        scheme: :http, plug: ElixirEcto.Router, options: [port: 8080]
+      }
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
