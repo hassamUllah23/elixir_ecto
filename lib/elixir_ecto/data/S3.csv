@@ -1,0 +1,67 @@
+esrs,dr,paragraph,name,datatype,appendix,voluntary
+S3,S3-1,14,"Policies to manage material impacts, risks and opportunities related to affected communities [see ESRS 2 MDR-P]",MDR-P,,
+S3,S3-1,16,Description of relevant human rights policy commitments relevant to affected communities,narrative,SFDR,
+S3,S3-1,16 a,Disclosure of general approach in relation to respect for human rights ,narrative,SFDR,
+S3,S3-1,16 b,Disclosure of general approach in relation to engagement with affected communities,narrative,SFDR,
+S3,S3-1,16 c,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts ,narrative,SFDR,
+S3,S3-1,17,Description of how policies are aligned with relevant internationally recognised instruments ,narrative,,
+S3,S3-1,AR 9,Disclosure of explanations of significant changes to policies adopted during reporting year ,narrative,,V
+S3,S3-2,21,Disclosure of how perspectives of  affected communities   inform decisions or activities aimed at managing actual and potential  impacts ,narrative,,
+S3,S3-2,21 a,"Engagement occurs with affected communities  or their legitimate representatives directly, or with credible proxies",semi-narrative,,
+S3,S3-2,21 b,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement ",narrative,,
+S3,S3-2,21 c,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach ,narrative,,
+S3,S3-2,21 d,Disclosure of how the undertaking assesses the effectiveness of its engagement with affected communities,narrative,,
+S3,S3-2,22,Disclosure of how effectiveness of engagement with  affected communities   is assessed ,narrative,,
+S3,S3-2,23,Disclosure of steps taken to gain insight into perspectives of  affected communities hat may be particularly vulnerable to impacts and (or) marginalised ,narrative,,
+S3,S3-2,24,Disclosure of timeframe for adoption of general process to engage with  affected communities   in case the undertaking has not adopted a general process for engagement,narrative,,V
+S3,S3-2,AR 14,Type of role or function handling with engagement,semi-narrative,,V
+S3,S3-3,27 a ,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on  affected communities   ,narrative,,
+S3,S3-3,27 b ,Disclosure of specific channels in place for  affected communities   to raise concerns or needs directly with undertaking and have them addressed ,narrative,,
+S3,S3-3,27 c ,Disclosure of processes through which undertaking supports or requires availability of channels ,narrative,,
+S3,S3-3,27 d ,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured ,narrative,,
+S3,S3-3,28,Disclosure of how it is assessed that  affected communities   are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed ,narrative,,
+S3,S3-3,29,Statement in case the undertaking has not adopted a general process to engage with its own workforce,narrative,,
+S3,S3-3,29,Disclosure of timeframe for channel or processes for raising concerns to be in place ,narrative,,V
+S3,S3-3,AR 21,Grievances are treated confidentially and with respect to rights of privacy and data protection,semi-narrative,,V
+S3,S3-3,AR 21,affected communities   are allowed to use anonymously channels to raise concerns or needs,semi-narrative,,V
+S3,S3-4,,"Action plans and resources to manage its material impacts, risks, and opportunities related to affected communities [see ESRS 2 - MDR-A]",MDR-A,,
+S3,S3-4,32 a ,"Description of action taken, planned or underway to prevent, mitigate or remediate material negative impacts on  affected communities   ",narrative,,
+S3,S3-4,32 b,Description of whether and how the undertaking has takehn action to provide or enable remedy in relation to an actual material impact,narrative,,
+S3,S3-4,32 c,Description of additional initiatives or processes with primary purpose of delivering positive impacts for  affected communities  ,narrative,,
+S3,S3-4,32 d,Description of how effectiveness of actions or initiatives in delivering outcomes for affected communities  is tracked and assessed ,narrative,,
+S3,S3-4,33 a,Description of approach to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on  affected communities   ,narrative,,
+S3,S3-4,33 b,Description of approach to taking action in relation to specific material impacts on  affected communities   ,narrative,,
+S3,S3-4,33 c,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on  affected communities   are available and effective in their implementation and outcomes ,narrative,,
+S3,S3-4,34 a,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on  affected communities   and how effectiveness is tracked ,narrative,,
+S3,S3-4,34 b,Description of what action is planned or underway to pursue material opportunities in relation to  affected communities   ,narrative,,
+S3,S3-4,35,Disclosure of how it is ensured that own practices do not cause or contribute to material negative impacts on  affected communities   ,narrative,,
+S3,S3-4,36,Disclosure of severe human rights issues and incidents connected to upstream and downstream value chain ,narrative,SFDR,
+S3,S3-4,38,Disclosure of resources allocated to management of material impacts ,narrative,,
+S3,S3-4,AR 25 a,Disclosure of general and specific approaches to addressing material negative impacts ,narrative,,
+S3,S3-4,AR 25 b,Disclosure of initiatives aimed at contributing to additional material positive impacts ,narrative,,
+S3,S3-4,AR 25 c,Disclosure of how far undertaking has progressed in efforts during reporting period ,narrative,,
+S3,S3-4,AR 25 d,Disclosure of aims for continued improvement ,narrative,,
+S3,S3-4,AR 27,Disclosure of how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting  affected communities   ,narrative,,V
+S3,S3-4,AR 28,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts ,narrative,,V
+S3,S3-4,AR 34 a),Disclosure of how affected communities  play role in decisions regarding design and implementation of programmes or processes ,narrative,,V
+S3,S3-4,AR 34 b),Information about intended or achieved positive outcomes of programmes or processes for  affected communities   ,narrative,,V
+S3,S3-4,AR 35,Initiatives or processes whose primary aim is to deliver positive impacts for  affected communities   are designed also to support achievement of one or more of Sustainable Development Goals,semi-narrative,,V
+S3,S3-4,AR 37,"Information about measures taken to mitigate negative impacts on workers that arise from transition to greener, climate-neutral economy ",narrative,,
+S3,S3-4,AR 43,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts ,narrative,,
+S3,S3-5,41,"Targets set to manage material impacts, risks and opportunities related to affected communities [see ESRS 2 - MDR-T]",MDR-T,,
+S3,S3-5,42,Disclosure of process for setting time-bound and outcome-oriented targets ,narrative,,
+S3,S3-5,42 a ,Disclosure of how affected communities were engaged directly in setting targets [text block],narrative,,
+S3,S3-5,42 b,Disclosure of how affected communities  were engaged directly in tracking performance against targets [text block],narrative,,
+S3,S3-5,42 c,Disclosure of how affected communities  were engaged directly in identifying lessons or improvements as result of undertaking�s performance [text block],narrative,,
+S3,S3-5,AR 44 a,Disclosure of intended outcomes to be achieved in lives of  affected communities   ,narrative,,V
+S3,S3-5,AR 44 b,Information about stability over time of target in terms of definitions and methodologies to enable comparability ,narrative,,V
+S3,S3-5,AR 44 c,Disclosure of references to standards or commitments on which target is based ,narrative,,V
+S3,S3.SBM-3,9,All  affected communities   who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,semi-narrative,,
+S3,S3.SBM-3,9 a),Description of types of affected communities   subject to material impacts,narrative,,
+S3,S3.SBM-3,9 a i)-v),Type of communities   subject to material impacts by own operations or through value chain,semi-narrative,,
+S3,S3.SBM-3,9 b,Material negative impacts occurrence (affected communities  ),semi-narrative,,
+S3,S3.SBM-3,9 c,Description of activities that result in positive impacts and types of  affected communities   that are positively affected or could be positively affected ,narrative,,
+S3,S3.SBM-3,9 d,Description of material risks and opportunities arising from impacts and dependencies on  affected communities   ,narrative,,
+S3,S3.SBM-3,10,"Disclosure of whether and how the undertaking has developed an understanding of how affected communities  with particular characteristicsor those living in particular contexts, or those
+undertaking particular activities may be at greater risk of harm",narrative,,
+S3,S3.SBM-3,11,Disclosure of which of material risks and opportunities arising from impacts and dependencies on affected communities   are impacts on specific groups ,narrative,,

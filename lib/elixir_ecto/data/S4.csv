@@ -1,0 +1,65 @@
+esrs,dr,paragraph,name,datatype,appendix,voluntary
+S4,S4-1,15,"Policies to manage material impacts, risks and opportunities related to consumers and end-users [see ESRS 2 MDR-P]",MDR-P,,
+S4,S4-1,16,Description of relevant human rights policy commitments relevant to consumers and/or end-users,narrative,SFDR,
+S4,S4-1,16 a,Disclosure of general approach in relation to respect for human rights  of consumers and end-users,narrative,SFDR,
+S4,S4-1,16 b,Disclosure of general approach in relation to engagement with consumers and/or end-users,narrative,SFDR,
+S4,S4-1,16 c,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts ,narrative,SFDR,
+S4,S4-1,17,Description of how policies are aligned with relevant internationally recognised instruments ,narrative,,
+S4,S4-1,AR 9,Disclosure of explanations of significant changes to policies adopted during reporting year ,narrative,,V
+S4,S4-2,20,Disclosure of how perspectives of  consumers and end-users   inform decisions or activities aimed at managing actual and potential  impacts ,narrative,,
+S4,S4-2,20 a,"Engagement occurs with consumers and end-users  or their legitimate representatives directly, or with credible proxies",semi-narrative,,
+S4,S4-2,20 b,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement ",narrative,,
+S4,S4-2,20 c,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach ,narrative,,
+S4,S4-2,20 d,Disclosure of how effectiveness of engagement with  consumers and end-users   is assessed ,narrative,,
+S4,S4-2,21,Disclosure of steps taken to gain insight into perspectives of  consumers and end-users  / consumers and end-users that may be particularly vulnerable to impacts and (or) marginalised ,narrative,,
+S4,S4-2,22,Disclosure of timeframe for adoption of general process to engage with  consumers and end-users   in case the undertaking has not adopted a general process for engageme,narrative,,V
+S4,S4-2,AR 15,Type of role or function handling with engagement,semi-narrative,,V
+S4,S4-3,25 a ,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on  consumers and end-users   ,narrative,,
+S4,S4-3,25 b ,Disclosure of specific channels in place for  consumers and end-users   to raise concerns or needs directly with undertaking and have them addressed ,narrative,,
+S4,S4-3,25 c ,Disclosure of processes through which undertaking supports or requires availability of channels ,narrative,,
+S4,S4-3,25 d ,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured ,narrative,,
+S4,S4-3,26,Disclosure of how it is assessed that  consumers and end-users   are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed ,narrative,,
+S4,S4-3,27,Statement in case the undertaking has not adopted a general process to engage with its own workforce,narrative,,
+S4,S4-3,27,Disclosure of timeframe for channel or processes for raising concerns to be in place ,narrative,,V
+S4,S4-3,AR 22,Grievances are treated confidentially and with respect to rights of privacy and data protection,semi-narrative,,V
+S4,S4-3,AR 22,consumers and end-users   are allowed to use anonymously channels to raise concerns or needs,semi-narrative,,V
+S4,S4-4,,"Action plans and resources to manage its material impacts, risks, and opportunities related to consumers and end-users [see ESRS 2 - MDR-A]",MDR-A,,
+S4,S4-4,31 a ,"Description of action planned or underway to prevent, mitigate or remediate material negative impacts on  consumers and end-users   ",narrative,,
+S4,S4-4,31 b,description of action to provide or enable remedy in relation to an actual material impact,narrative,,
+S4,S4-4,31 c,Description of additional initiatives or processes with primary purpose of delivering positive impacts for  consumers and end-users  ,narrative,,
+S4,S4-4,31 d,Description of how effectiveness of actions or initiatives in delivering outcomes for consumers and end-users  is tracked and assessed ,narrative,,
+S4,S4-4,32 a,Description of approach to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on  consumers and end-users   ,narrative,,
+S4,S4-4,32 b,Description of approach to taking action in relation to specific material impacts on  consumers and end-users   ,narrative,,
+S4,S4-4,32 c,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on  consumers and end-users   are available and effective in their implementation and outcomes ,narrative,,
+S4,S4-4,33 a,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on  consumers and end-users   and how effectiveness is tracked ,narrative,,
+S4,S4-4,33 b,Description of what action is planned or underway to pursue material opportunities in relation to  consumers and end-users   ,narrative,,
+S4,S4-4,34,Disclosure of how it is ensured that own practices do not cause or contribute to material negative impacts on  consumers and end-users   ,narrative,,
+S4,S4-4,35,Disclosure of severe human rights issues and incidents connected to upstream and downstream value chain ,narrative,SFDR,
+S4,S4-4,37,Disclosure of resources allocated to management of material impacts ,narrative,,
+S4,S4-4,AR 25 a,Disclosure of general and specific approaches to addressing material negative impacts ,narrative,,
+S4,S4-4,AR 25 b,Disclosure of initiatives aimed at contributing to additional material positive impacts ,narrative,,
+S4,S4-4,AR 25 c,Disclosure of how far undertaking has progressed in efforts during reporting period ,narrative,,
+S4,S4-4,AR 25 d,Disclosure of aims for continued improvement ,narrative,,
+S4,S4-4,AR 27,Disclosure of how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting  consumers and end-users   ,narrative,,V
+S4,S4-4,AR 28,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts ,narrative,,V
+S4,S4-4,AR 34 a),Disclosure of how consumers and end-users  play role in decisions regarding design and implementation of programmes or processes ,narrative,,V
+S4,S4-4,AR 34 b),Information about intended or achieved positive outcomes of programmes or processes for  consumers and end-users   ,narrative,,V
+S4,S4-4,AR 35,Initiatives or processes whose primary aim is to deliver positive impacts for consumers and/or end-users  are designed also to support achievement of one or more of Sustainable Development Goals,semi-narrative,,V
+S4,S4-4,AR 36,"Information about measures taken to mitigate negative impacts on workers that arise from transition to greener, climate-neutral economy ",narrative,,
+S4,S4-4,AR 41,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts ,narrative,,
+S4,S4-5,41,"Targets set to manage material impacts, risks and opportunities related to consumers and end-users   [see ESRS 2 - MDR-T]",MDR-T,,
+S4,S4-5,41,Disclosure of process for setting time-bound and outcome-oriented targets ,narrative,,
+S4,S4-5,41 a ,Disclosure of how consumers and end-users were engaged directly in setting targets [text block],narrative,,
+S4,S4-5,41 b,Disclosure of how consumers and end-users  were engaged directly in tracking performance against targets [text block],narrative,,
+S4,S4-5,41 c,Disclosure of how consumers and end-users  were engaged directly in identifying lessons or improvements as result of undertaking�s performance [text block],narrative,,
+S4,S4-5,AR 42 a,Disclosure of intended outcomes to be achieved in lives of  consumers and end-users   ,narrative,,V
+S4,S4-5,AR 42 b,Information about stability over time of target in terms of definitions and methodologies to enable comparability ,narrative,,V
+S4,S4-5,AR 42 c,Disclosure of references to standards or commitments on which target is based ,narrative,,V
+S4,S4.SBM-3,10,All  consumers and end-users   who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,semi-narrative,,
+S4,S4.SBM-3,10 a),Description of types of consumers and end-users   subject to material impacts,narrative,,
+S4,S4.SBM-3,10 a i)-v),Type of consumers and end-users   subject to material impacts by own operations or through value chain,semi-narrative,,
+S4,S4.SBM-3,10 b,Material negative impacts occurrence (consumers and end-users  ),semi-narrative,,
+S4,S4.SBM-3,10 c,Description of activities that result in positive impacts and types of  consumers and end-users   that are positively affected or could be positively affected ,narrative,,
+S4,S4.SBM-3,10 d,Description of material risks and opportunities arising from impacts and dependencies on  consumers and end-users   ,narrative,,
+S4,S4.SBM-3,11,"Disclosure of how understanding of how own workers / consumers and end-users  with particular characteristics, working in particular contexts, or undertaking particular activities may be at greater risk of harm has been developed",narrative,,
+S4,S4.SBM-3,12,Disclosure of which of material risks and opportunities arising from impacts and dependencies on consumers and end-users   are impacts on specific groups ,narrative,,

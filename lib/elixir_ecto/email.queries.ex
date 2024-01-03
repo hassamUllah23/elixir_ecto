@@ -39,18 +39,4 @@ defmodule ElixirEcto.EmailQueries do
     # Repo.insert(Email.changeset(emailStruct))
     Repo.insert(emailStruct)
   end
-
-  @doc """
-  Returns a data structure for tracking email changes.
-
-  ## Examples
-
-      iex> change_email(email)
-      %Todo{...}
-
-  """
-  #   def change_email(%EmailStruct{} = email, attrs \\ %{}) do
-  #     Logger.info("#{inspect(email)}")
-  #     Email.changeset(email, attrs)
-  #   end
 end

@@ -1,15 +1,12 @@
 defmodule ElixirEcto.Router do
   require Logger
-  #   import Elixir
+
   import ElixirEcto.ResponseMessages
-  import ElixirEcto.UserQueries
   require ElixirEcto.UserQueries
-  alias ElixirEcto.{UserStruct, UserQueries, User}
+  alias ElixirEcto.{UserQueries, User}
   use Plug.Router
   use Plug.ErrorHandler
-  #   import ElixirEcto.ApiPrefix
 
-  #   plug ElixirEcto.ApiPrefix
   plug(Plug.Logger)
   plug(:match)
 
@@ -66,15 +63,15 @@ defmodule ElixirEcto.Router do
     id = String.to_integer(user_id)
 
     user = UserQueries.get_user(id)
-    stripped = Map.drop(user, [:__meta__, :__struct__, :emails])
+    # stripped = Map.drop(user, [:__meta__, :__struct__, :emails])
     Logger.info("#{inspect(user)}")
     {:ok, json} = Jason.encode(user)
     send_resp(conn, 200, json)
   end
 
   patch "/#{users}/#{update}/:id" do
-      %{"id" => user_id} = conn.params
-      # id = String.to_integer(user_id)
+    %{"id" => user_id} = conn.params
+    # id = String.to_integer(user_id)
 
     data = %{
       id: String.to_integer(user_id),
